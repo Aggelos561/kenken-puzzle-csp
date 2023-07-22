@@ -41,5 +41,3 @@ Upon executing the solver, it will output the solution using each of the algorit
 ## Acknowledgments
 
 The implementation of the Constraint Satisfaction Problem (CSP) framework is based on the `csp.py` module from the AIMA book (Artificial Intelligence: A Modern Approach) authored by Stuart Russell and Peter Norvig.
-
-Feel free to use and modify this code for your own KenKen puzzles or other Constraint Satisfaction Problems! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
